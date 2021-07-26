@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RoyWee
+- 👋 Hi, I’m @Roy Wee
 - 👀 I’m interested in Android Software Development 
 - 🌱 I’m currently learning Java and Kotlin Programming
 - 💞️ I’m looking to collaborate on ...
